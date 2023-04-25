@@ -28,9 +28,10 @@
 </p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<br>
 
-    <table>
-        <tr>
+ <table>
+      <tr>
     <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true"
                 width="200"/>
             </td>
