@@ -18,6 +18,7 @@
 
 
 -A frontend developer enthusiast with 3+ years of experience in IT and 2 years of experience in frontend development, interested in writing codes, skilled at developing complex solutions, creating responsive designs, and possessing strong creative thinking skills, high energy, and integrity. Especially interested in Front end/Web Development, HTML, CSS, JS, React. Excited to learn new things and improve, lifetime student. Successful in developing effective, innovative solutions to problems and creating algorithms as an engineer-based frontend developer. Always eager to learn various technologies, tools, and libraries.
+<br><br>
 <hr>
 
 <br>
