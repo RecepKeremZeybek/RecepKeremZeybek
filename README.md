@@ -31,7 +31,7 @@
 
 
 
-      <table>
+        <table>
       <tr>
  
   
@@ -65,7 +65,6 @@
    
       </tr>
       <tr>
-       
 
         <td>
             <img
@@ -73,6 +72,7 @@
               width="200"
             />
           </td>
+          <td>
           <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
           width="200"
@@ -85,8 +85,6 @@
               src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67"
               width="200"
             />
- 
-    
         <td>
           <img
             src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true"
@@ -94,10 +92,8 @@
           />
         </td>
     </td>
-
       </tr>
     </table>
-
 
 
 <br/>
