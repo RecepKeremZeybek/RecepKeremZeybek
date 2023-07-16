@@ -44,3 +44,21 @@
 <hr>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <br>
+
+
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/recepkeremzeybek/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/keremzybk/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+    
+
+ </div>
+
+
