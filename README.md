@@ -7,3 +7,23 @@
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
+
+
+
+- I graduated from Duzce University Computer Engineering
+
+- A frontend developer enthusiast with 3+ years of experience in IT and 2 years of experience in frontend development, interested in writing codes, skilled at developing complex solutions, creating responsive designs, and possessing strong creative thinking skills, high energy, and integrity. Especially interested in Front end/Web Development, HTML, CSS, JS, React. Excited to learn new things and improve, lifetime student. Successful in developing effective, innovative solutions to problems and creating algorithms as an engineer-based frontend developer. Always eager to learn various technologies, tools, and libraries.
+<br><br><br>
+<hr>
+
+<br>
+
+
+
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+<hr>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<br>
