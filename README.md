@@ -46,15 +46,27 @@
 <br>
 <br>
 
-[![Recep Kerem Zeybek's github stats](https://github-readme-stats.vercel.app/api?username=RecepKeremZeybek&show_icons=true)](https://github.com/RecepKeremZeybek)
 
-----
 
-Credits: [Recep Kerem Zeybek](https://github.com/RecepKeremZeybek)
+
+
+
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RecepKeremZeybek&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka"  width="350"/>
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RecepKeremZeybek&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+</p>
+
 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
