@@ -39,7 +39,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"/></td></tr>
 </table>
 <br>
-<br>
  <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{RecepKeremZeybek}/count.svg">
   
