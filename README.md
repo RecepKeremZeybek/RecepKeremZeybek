@@ -16,7 +16,6 @@
 - I am a dedicated software developer who loves solving complex problems with clean and efficient code. I have a solid understanding of web development principles and am constantly enhancing my skills to stay up-to-date with the latest technologies and industry trends. My curiosity and eagerness to learn drive me to explore new tools, frameworks, and best practices in web development.
 <br>
 
-<hr>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 
 
